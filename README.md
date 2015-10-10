@@ -10,4 +10,10 @@ What do you think?
 Issue no. 5: Change -text- properly.
 Issue no. 6: Change -text- properly.
 
+<<<<<<< HEAD
+Issue no. 15: Change -text- properly.
+=======
 Issue no. 8: Added through Git CLI.
+>>>>>>> master
+
+
