@@ -9,3 +9,5 @@ I've have added more content.
 What do you think?
 Issue no. 5: Change -text- properly.
 Issue no. 6: Change -text- properly.
+
+Issue no. 8: Added through Git CLI.
