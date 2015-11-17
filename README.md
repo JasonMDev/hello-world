@@ -26,10 +26,21 @@ function fancyAlert(arg) {
 ```
 ### This is a inline code
 Description
+Concentrating on '< Ruby on Rails.>'
+'$ git commit -am "Description."'
+
+###Blockquotes
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
 
 ###Table
 First Header | Second Header
 ------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 ###Issue references within a repository
 Any number that refers to an Issue or Pull Request will be automatically converted into a link.
@@ -38,8 +49,7 @@ mojombo#1
 mojombo/github-flavored-markdown#1
 
 ~~this~~
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+
 I've have added more content.
 What do you think?
 Issue no. 5: Change -text- properly.
