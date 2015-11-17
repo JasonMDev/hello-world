@@ -9,6 +9,37 @@ Jason here, I'm starting out in *coding*.
 Little by little I'll learn more.
 Concentrating on Ruby on Rails.
 
+### This is a block of code by indent
+Description:
+def foo():
+    if not bar:
+        return True
+        
+### This is a block of code by syntax highlighting
+Here’s an example of how you can use syntax highlighting with GitHub Flavored Markdown:        
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+### This is a inline code
+Description
+
+###Table
+First Header | Second Header
+------------ | -------------
+
+###Issue references within a repository
+Any number that refers to an Issue or Pull Request will be automatically converted into a link.
+#1
+mojombo#1
+mojombo/github-flavored-markdown#1
+
+~~this~~
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 I've have added more content.
 What do you think?
 Issue no. 5: Change -text- properly.
